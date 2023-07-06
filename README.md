@@ -1,5 +1,4 @@
-Objective: The objective of this assignment is to create a simple test suite for a React Native 
-app using Detox automation tool which works on both Android and iOS platforms.
+Objective: The objective of this assignment is to create a simple test suite for a React Native app using Detox automation tool which works on both Android and iOS platforms.
 
 Unfortunatley I was unable to complete the assignment due to the following reasons:
 I was using a windows machine to build this framework.
