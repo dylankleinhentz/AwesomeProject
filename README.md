@@ -11,7 +11,6 @@ This process went flawless.
 Using the new react native project, I was able to download the app onto the AVD I created. 
 <br>
 <br>
-Unfortunately I was unable to complete the assignment due to the following reasons: 
 However, when continuing to the Detox installation (https://wix.github.io/Detox/docs/introduction/getting-started/), errors started to occur. 
 The app would refuse to build after all Detox installation steps were followed precisely. 
 My biggest challenge was that all tutorials and instructions are given from mac books. 
@@ -22,7 +21,7 @@ Due to the above challenge, I was unable to create a working automation test sui
 Note: I had no prior knowledge and experiance in mobile automation before this assignment.
 <br>
 <br>
-Below are the instructions to building the project. 
+Below are the instructions to build the project. 
 <br>
 <br>
 <br>
