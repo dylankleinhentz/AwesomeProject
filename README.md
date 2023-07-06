@@ -1,4 +1,4 @@
-Assignment Objective: 
+Assignment Objective:<br> 
 The objective of this assignment is to create a simple test suite for a React Native app using Detox automation tool which works on both Android and iOS platforms. 
 <br>
 <br>  
