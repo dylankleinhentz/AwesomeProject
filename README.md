@@ -13,8 +13,8 @@ Using the new react native project, I was able to download the app onto the AVD 
 <br>
 However, when continuing to the Detox installation (https://wix.github.io/Detox/docs/introduction/getting-started/), errors started to occur. 
 The app would refuse to build after all Detox installation steps were followed precisely.  
-My biggest challenge was that all tutorials and instructions are given from mac books.  
-When getting compile errors, there is limited information from the community to fix the issues on a windows machine.   
+My biggest challenge was that tutorials and instructions are given from a mac book perspective.  
+When getting compile errors, there is limited information from the Detox github page and the community to fix the issues on a windows machine.   
 <br>
 <br>
 Due to the above challenge, I was unable to create a working automation test suite for the react native app.<br> 
