@@ -5,15 +5,15 @@ The objective of this assignment is to create a simple test suite for a React Na
 Below was the process I followed to try complete the assignment.
 <br>
 <br>
-I was using a windows machine to build this framework.<br>  
-I followed all set up steps from the 📚 React Native CLI Quickstart Guide.<br>  
-This process went flawless.<br>  
+I was using a windows machine to build this framework.  
+I followed all set up steps from the 📚 React Native CLI Quickstart Guide. 
+This process went flawless. 
 Using the new react native project, I was able to download the app onto the AVD I created. 
 <br>
 <br>
-However, when continuing to the Detox installation (https://wix.github.io/Detox/docs/introduction/getting-started/), errors started to occur.<br>  
-The app would refuse to build after all Detox installation steps were followed precisely.<br>  
-My biggest challenge was that all tutorials and instructions are given from mac books.<br>  
+However, when continuing to the Detox installation (https://wix.github.io/Detox/docs/introduction/getting-started/), errors started to occur. 
+The app would refuse to build after all Detox installation steps were followed precisely.  
+My biggest challenge was that all tutorials and instructions are given from mac books.  
 When getting compile errors, there is limited information from the community to fix the issues on a windows machine.   
 <br>
 <br>
